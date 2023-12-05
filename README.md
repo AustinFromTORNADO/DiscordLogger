@@ -14,7 +14,7 @@
 <h2 align="center">Клонируем репозиторий к себе на компьютер. В папке DiscordLogger присутсвует скрипт. Для правильный работы убедитесь в том, что папка resources находится в папке со скриптом.</h2>
 
 <h3 align="center">Как включить если у меня нет python:</h3>
-<h2 align="center">1. Качаем <a href="https://daniilshat.ru/" target="_blank">Папку со скриптом в виде исполняемого в файла .EXE</a></h2>
+<h2 align="center">1. Качаем <a href="https://github.com/AustinFromTORNADO/DiscordLogger/releases/download/v0.1/DiscordLoggerEXE.zip" target="_blank">Папку со скриптом в виде исполняемого в файла .EXE</a></h2>
 <h2 align="center">2. При первом запуске вводим DISCORD TOKEN вашего бота</h2>
 <h2 align="center">3. Добавляем разрешенные ники в Access_List_Member.txt</h2>
 <h2 align="center">4. С помощью значка в трее завершаем программу при необходимости</h2>
@@ -35,7 +35,7 @@
 <h2 align="center">We clone the repository to our computer. There is a script in the DiscordLogger folder. To work correctly, make sure that the resources folder is located in the folder with the script.</h2>
 
 <h3 align="center">How to enable it if I don't have python:</h3>
-<h2 align="center">1. Download <a href="https://daniilshat.ru /" target="_blank">The folder with the script as an executable file.EXE</a></h2>
+<h2 align="center">1. Download <a href="https://github.com/AustinFromTORNADO/DiscordLogger/releases/download/v0.1/DiscordLoggerEXE.zip" target="_blank">The folder with the script as an executable file.EXE</a></h2>
 <h2 align="center">2. At the first launch, we enter the DISCORD TOKEN of your bot</h2>
 <h2 align="center">3. Add the allowed nicknames to Access_List_Member.txt </h2>
 <h2 align="center">4. Using the tray icon, we terminate the program if necessary</h2>
